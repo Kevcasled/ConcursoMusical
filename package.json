@@ -1,0 +1,21 @@
+{
+  "name": "concurso-musical",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-vue": "^6.0.1",
+    "framer-motion": "^12.23.24",
+    "howler": "^2.2.4",
+    "lucide-vue-next": "^1.0.0",
+    "motion-v": "^1.7.4",
+    "pinia": "^3.0.4",
+    "vite": "^7.2.2",
+    "vue": "^3.5.24",
+    "vue-router": "^5.0.4"
+  }
+}

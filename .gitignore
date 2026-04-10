@@ -1,0 +1,9 @@
+/.claude
+/.vscode
+node_modules/
+dist/
+.DS_Store
+.env
+*.log
+.cache/
+.temp/
